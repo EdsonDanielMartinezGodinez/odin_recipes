@@ -1,1 +1,1 @@
-# odin_recipes
+This basic HTML program displays three recipes on a simple webpage. Each recipe includes a title, a short description, a list of ingredients, step-by-step instructions, and an image. The page is structured using headings, paragraphs, and lists for easy readability. Basic CSS can be added for better styling. Perfect for beginners learning HTML!
