@@ -1,0 +1,17 @@
+body{
+    background-color: hsl(40, 40%, 80%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Container,.contmol,.cont3,.cont2{
+    background-color: hsl(30, 50%, 90%);
+    text-align: center;
+}
+h1{
+    color: hsl(35, 70%, 40%);
+}
+h1,h2{
+    font-family: Georgia, serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
